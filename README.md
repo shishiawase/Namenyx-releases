@@ -4,7 +4,7 @@ Namenyx is a modular Windows desktop platform for Twitch stream tools and integr
 
 ## Download
 
-Download the latest Windows setup file from the [latest release](https://github.com/shishiawase/Namenyx-releases/releases/latest).
+Download the latest Windows setup file from the [latest release](https://github.com/shishiawase/Namenyx/releases/latest).
 
 Use the `Namenyx_<version>_x64-setup.exe` asset. The `latest.json` and `.sig` files are updater metadata used by the application.
 
